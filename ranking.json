@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 92,
+    "reason": "Ranked #1: Passed all mandatory gates. Highest relevant experience, lowest valid price, and shortest timeline."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 85,
+    "reason": "Ranked #2: Passed all mandatory gates. Better workmanship warranty and approach than A, but lower experience and higher price."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Fails mandatory criteria: Electrical licence will be held by a subcontractor, not the bidder."
+  },
+  {
+    "proposal": "C",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Flagged for human review: Contains suspicious prompt injection attempt and ambiguous experience timeframe (since 2020)."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Flagged for human review: Missing completion timeline (extracted as null); cannot verify the 16-week mandatory requirement."
+  }
+]
